@@ -11,7 +11,10 @@ describe('UserLoginFormComponent', () => {
       declarations: [UserLoginFormComponent]
     })
       .compileComponents();
+  });
 
+
+  beforeEach(() => {
     fixture = TestBed.createComponent(UserLoginFormComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
