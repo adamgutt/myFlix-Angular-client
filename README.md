@@ -2,10 +2,10 @@
 - This app displays a welcome view where users can log in or register a new account.
 - Once authenticated, the user can view all movies.
 - Once the user clicks on a specific movie the single movie view will give the user the option to show the following details.
-  - A button that when clicked takes a user to the director view, where details about the director of that particular movie will be displayed.
-  - A button that when clicked takes a user to the genre view, where details about that particular genre of the movie will be displayed.
-- The user will have the ability to favorite movies
-- The user can view his favorited movies on his profile page and edit/delete his user info
+  - A button that when clicked takes a user to the director view, where details about the director of that movie will be shown.
+  - A button that when clicked takes a user to the genre view, where details about the genre of the movie will be shown.
+- The user has the ability to add movies to their list of favorites.
+- The user can view his favorited movies on his profile page and edit/delete his user info.
 
 ## MyFlixAngularClient
 
